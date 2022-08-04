@@ -2,7 +2,7 @@
 <h3 align="center">An information system student at Bina Sarana Informatika University</h3>
 	
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=CROWNIX&color=blueviolet&style=flat">
 </p>
 
 - 🌱 I’m currently learning **ReactJs.**
