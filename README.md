@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/vivek9patel?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/CROWNIX?tab=repositories)
 
 - 💬 Ask me about **Javascript**
 
